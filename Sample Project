@@ -1,0 +1,236 @@
+# Mini Mart Management System
+
+## 1. Topic selection
+
+**Mini Mart Management System**
+
+A web-based software solution that helps mini marts manage products, inventory, sales, suppliers, customers, and financial reports in one integrated system.
+
+## 2. Why did you choose this topic? (Background)
+
+Many mini marts in Cambodia still manage inventory and sales manually using notebooks, Excel files, or basic calculators. This often causes stock shortages, expired products, inaccurate sales records, and difficulty calculating profit.
+
+This system will automate daily operations, improve inventory accuracy, reduce human errors, and provide real-time reports to support business decision-making.
+
+## 3. Software project plan
+
+### 3.1 Project goals
+
+* Digitize mini mart daily operations.
+* Improve inventory management.
+* Track sales transactions accurately.
+* Manage suppliers efficiently.
+* Generate automatic financial reports.
+* Reduce stock loss and expired products.
+
+### 3.2 Project scope
+
+**Included features**
+
+* User management
+* Product management
+* Inventory management
+* Sales management
+* Supplier management
+* Customer management
+* Reporting dashboard
+
+**Excluded features**
+
+* Mobile application
+* Online shopping
+* Delivery service
+* Multi-branch management
+* Online payment integration
+
+### 3.3 Software requirements
+
+#### User management
+
+* User login and logout
+* Role-based access (Admin, Cashier, Manager)
+* Change password
+* Manage user accounts
+
+#### Product management
+
+* Add new products
+* Edit product information
+* Delete products
+* Search products by name, barcode, or category
+* Categorize products
+* Upload product images
+* Set purchase and selling prices
+
+#### Inventory management
+
+* Record stock-in transactions
+* Record stock-out transactions
+* Display current stock quantity
+* Automatically update stock after sales
+* Low-stock alert notification
+* Expired product alert
+* Stock adjustment for damaged or missing items
+
+#### Supplier management
+
+* Add supplier information
+* Update supplier information
+* Record product purchases from suppliers
+* View supplier purchase history
+
+#### Sales management (POS)
+
+* Scan barcode or search products
+* Add products to cart
+* Modify item quantity
+* Apply discounts
+* Calculate total amount
+* Accept different payment methods
+* Generate and print receipts
+* Cancel transactions
+* View daily sales transactions
+
+#### Customer management
+
+* Register regular customers
+* Store customer information
+* View customer purchase history
+* Reward loyalty points
+
+#### Reporting
+
+* Daily sales report
+* Weekly sales report
+* Monthly sales report
+* Profit and loss report
+* Best-selling products report
+* Inventory report
+* Low-stock report
+* Expired products report
+* Supplier purchase report
+
+#### Non-functional requirements
+
+* Secure login authentication
+* Fast system performance
+* User-friendly interface
+* Responsive web design
+* Data backup and recovery
+* Reliable database system
+
+### 3.4 Project management methodology
+
+**Agile (Scrum)**
+
+Reasons:
+
+* Flexible development process
+* Easy to add new features
+* Frequent testing and feedback
+* Better task tracking
+
+### 3.5 Risk assessment
+
+| Risk                      | Impact | Mitigation                         |
+| ------------------------- | ------ | ---------------------------------- |
+| Requirement changes       | High   | Regular meetings with stakeholders |
+| Database errors           | High   | Frequent data backup               |
+| Schedule delays           | Medium | Weekly progress reviews            |
+| Technical difficulties    | Medium | Early prototyping                  |
+| Team communication issues | Medium | Use collaboration tools            |
+
+### 3.6 Task breakdown
+
+**Phase 1: Planning**
+
+* Requirement gathering
+* Problem analysis
+* Project planning
+
+**Phase 2: System design**
+
+* Database design
+* User interface design
+* System architecture
+
+**Phase 3: Development**
+
+* User management module
+* Product management module
+* Inventory management module
+* Sales (POS) module
+* Supplier management module
+* Customer management module
+* Reporting module
+
+**Phase 4: Testing**
+
+* Unit testing
+* Integration testing
+* User acceptance testing
+
+**Phase 5: Deployment**
+
+* Documentation
+* Final presentation
+* System deployment
+
+### 3.7 Project schedule (8 weeks)
+
+| Week | Task                           |
+| ---- | ------------------------------ |
+| 1    | Requirement gathering          |
+| 2    | System analysis and planning   |
+| 3    | Database and UI design         |
+| 4    | User and product modules       |
+| 5    | Inventory and supplier modules |
+| 6    | Sales and customer modules     |
+| 7    | Reporting and testing          |
+| 8    | Documentation and presentation |
+
+### 3.8 Resource management
+
+**Human resources**
+
+* Project manager
+* System analyst
+* UI/UX designer
+* Backend developer
+* Frontend developer
+* Tester
+
+**Software resources**
+
+* Visual Studio Code
+* MySQL
+* GitHub
+* Figma
+
+**Hardware resources**
+
+* Laptop
+* Internet connection
+* Local development server
+
+### 3.9 Collaboration methods
+
+* Weekly team meetings
+* GitHub for version control
+* Trello for task management
+* Google Drive for documentation
+* Telegram for communication
+
+### 3.10 Metrics to track
+
+* Number of completed features
+* Task completion percentage
+* Number of bugs fixed
+* Test cases passed
+* Inventory accuracy
+* Sales report accuracy
+* User satisfaction
+
+## Expected outcome
+
+The Mini Mart Management System will help mini marts manage inventory more efficiently, reduce product loss, improve sales tracking, automate financial reporting, and support better business decision-making through accurate and real-time data.
